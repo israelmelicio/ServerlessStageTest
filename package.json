@@ -1,0 +1,26 @@
+{
+  "name": "stagestest",
+  "version": "1.0.0",
+  "description": "This project is a simple example using staging development on AWS Lambda (dev, staging, prod and also local) for environment variables.",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelmelicio/ServerlessStageTest.git"
+  },
+  "keywords": [],
+  "author": "Israel Melicio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israelmelicio/ServerlessStageTest/issues"
+  },
+  "homepage": "https://github.com/israelmelicio/ServerlessStageTest#readme",
+  "devDependencies": {
+    "aws-sdk": "^2.524.0",
+    "serverless": "^1.51.0",
+    "serverless-offline": "^5.10.1",
+    "serverless-stage-manager": "^1.0.5"
+  }
+}
