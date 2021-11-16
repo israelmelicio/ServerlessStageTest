@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/israelmelicio/ServerlessStageTest#readme",
   "devDependencies": {
-    "aws-sdk": "^2.524.0",
+    "aws-sdk": "^2.814.0",
     "serverless": "^1.51.0",
     "serverless-offline": "^5.10.1",
     "serverless-stage-manager": "^1.0.5"
